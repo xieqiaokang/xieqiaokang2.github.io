@@ -27,17 +27,21 @@ Shenzhen is such a dynamic city where the traddition and modernity converge.  Yo
 
 #### Youtube.com 
 
-<link rel="stylesheet" type="text/css" href="video-responsive.css" />
+<video src="https://www.youtube.com/embed/kahd3KmNsOE" controls="controls" width="100%" height="auto"/>
+
+<!-- <link rel="stylesheet" type="text/css" href="video-responsive.css" />
 
 <div class="video-responsive">
 <iframe width="1280" height="715" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
 
 #### Bilibili.com (within China)
 
-<div class="video-responsive">
+<video src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" controls="controls" width="100%" height="auto"/>
+
+<!-- <div class="video-responsive">
 <iframe width="1280" height="715" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
+</div> -->
 
 ### Delightful Weather (天时)
 
