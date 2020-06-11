@@ -27,7 +27,11 @@ Shenzhen is such a dynamic city where the traddition and modernity converge.  Yo
 
 #### Youtube.com 
 
-{% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %}
+<div class='embed-container'>
+    <iframe title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<!-- {% youtube "https://www.youtube.com/watch?v=ho8-vK0L1_8" %} -->
 
 <!-- <video src="https://www.youtube.com/embed/kahd3KmNsOE" controls="controls" width="100%" height="auto"/> -->
 
