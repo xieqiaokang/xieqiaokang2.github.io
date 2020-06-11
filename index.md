@@ -2,122 +2,62 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Bringing ICCV 2025 to Shenzhen
 
-[Link to another page](./another-page.html).
+### Executive Summary
 
-There should be whitespace between paragraphs.
+* Large computer vision community in Shenzhen and the Greater Bay
+Area;
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* World-class conference infrastructure secured;
 
-# Header 1
+* A pleasant place with nice weather, lots of attractions, and
+sophisticated cuisine;
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Easy to travel to from around the world, and easy to travel within the Greater Bay area;
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Affordable, with family support.
 
 
-### Definition lists can be used with HTML syntax.
+### Dynamic Location (地利)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Shenzhen, located at the center of the Greater Bay Area with a population of 70 million in Southern China, is a dynamic city boasting the home to many high-tech businesses and renowned research institutions.  You will have many places to visit during your stay at Shenzhen. If you are a fan of electronic gadgets, there is the world's largest marketplace -- Huaqiangbei. If you'd like to spend a pleasant vacation with your family, you can campaign on scenic beaches (Xiaomeisha, Xichong, Dameisha etc.) and stay in luxury beach hotels with gorgeous ocrean views.  You will also enjoy the splendid China culture by visiting ancient villages, watching art performances, and enjoying the best food in the captial of dim sum  where it originated known as morning tea. 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Shenzhen is such a dynamic city where the traddition and modernity converge.  You are sincerely invited to watch a short video introducing Shenzhen.
 
-```
-The final element.
-```
+#### Youtube.com 
+
+<link rel="stylesheet" type="text/css" href="video-responsive.css" />
+
+<div class="video-responsive">
+<iframe width="1280" height="715" src="https://www.youtube.com/embed/kahd3KmNsOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### Bilibili.com (within China)
+
+<div class="video-responsive">
+<iframe width="1280" height="715" src="//player.bilibili.com/player.html?aid=19348684&bvid=BV1sW411n7EJ&cid=31553075&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
+
+### Delightful Weather (天时)
+
+The proposed conference is scheduled to be a seven-day event, beginning 14 December 2025 through 20 December 2025. Shenzhen has a very pleasant winter in this period, with an average temperature of 65°F or 18°C in December.  You will have an enjoyable holiday season travel to Shenzhen, and have chance to visit many dynamic cities such as Gangzhou (29 min by train), Hong Kong (18 min by train) and Macau and Zhuhai (by ferry, or through the HZM bring, the world's longest sea crossing bridge of 34 miles) in the Greater Bay Area. 
+
+These vivid cities are closely connnected via a world-class high-speed train system, making traveling in the Greater Bay Area super easy and comfortable. You will have an unforgetable holiday with your family and significant ones, welcoming the new year of 2026 together in world's best beach hotels of Shenzhen, on the Pearl River night cruise of Guangzhou, in the Disneyland theme park of Hong Kong, or in the Sands' landmark casino hotels of Macau.
+
+### Diverse Team (人和)
+
+We propose a diverse organizing team that already covers the key roles, including three honorary Chairs, four General Chairs, five Program Chairs, two Finance Chairs and three Local Arrangement Chairs from the Americas, Asia-Pacific Region and Europe. Young talents are well represented on the team, who will work closely with the senior members in organizing the conference and preparing a high-quality program. Other organizing committee members will be filled in later, again according to the principle of diversity.
+
+
+## Our proposal
+
+You are sincerely invited to download and read our proposal [(high resolution, 15MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen.pdf) and [(low resolution, 6MB)](http://iccv2025shenzhen.github.io/ICCV2025shenzhen_compact.pdf) for ICCV 2025 at Shenzhen.
+
+You can click the following photo to view it online without downloading it.
+
+[<img src="https://iccv2025shenzhen.github.io/index.png" width="638">](https://github.com/iccv2025shenzhen/iccv2025shenzhen.github.io/blob/master/ICCV2025shenzhen.pdf)
+
+## Questions and Feedback?
+
+Having questions about our proposal? Email us at iccv2025@gmail.com and we are looing forward to hearing your voices and feedback on our proposal.
