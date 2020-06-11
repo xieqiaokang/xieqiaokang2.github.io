@@ -3,3 +3,4 @@ description: December 14-20, 2025
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+plugins: [jekyll-youtube]
